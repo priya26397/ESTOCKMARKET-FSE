@@ -32,7 +32,7 @@ public class CompanyConrtoller {
 	}
 
 	@GetMapping("/")
-	public ResponseEntity<List<CompanyDto>> getCompany(@RequestBody CompanyDto companyDto) {
+	public ResponseEntity<List<CompanyDto>> getCompany() {
 		return new ResponseEntity<List<CompanyDto>>(companyService.getCompany(),HttpStatus.OK);
 	}
 
