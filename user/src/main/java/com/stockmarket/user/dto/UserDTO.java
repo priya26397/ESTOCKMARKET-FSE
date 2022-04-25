@@ -111,14 +111,6 @@ public class UserDTO {
 		this.enable = enable;
 	}
 
-	public String getEmailId() {
-		return emailId;
-	}
-
-	public void setEmailId(String emailId) {
-		this.emailId = emailId;
-	}
-
 	@Override
 	public String toString() {
 		return "UserDetails [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", userName="
