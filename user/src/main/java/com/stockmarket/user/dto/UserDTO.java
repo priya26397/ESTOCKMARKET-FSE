@@ -1,29 +1,32 @@
 package com.stockmarket.user.dto;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
-import org.springframework.data.annotation.Id;
-import org.springframework.data.annotation.Transient;
-import org.springframework.data.mongodb.core.index.Indexed;
-import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "user")
+
+@Entity
+@Table(name = "user")
 public class UserDTO {
 
-	@Transient
-	public static final String SEQUENCE_NAME = "users_sequence";
 	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id;
 	private String firstName;
 	private String lastName;
 	@NotBlank
-    @Size(max = 100)
-    @Indexed(unique = true)
+	@Size(max = 100)
+    @Column(unique = true)
 	private String userName;
 	@NotBlank
-    @Size(max = 100)
-    @Indexed(unique = true)
-    private String emailId;
+	@Size(max = 100)
+    @Column(unique = true)
+	private String emailId;
 	private String email;
 	private String password;
 	private long phone;
