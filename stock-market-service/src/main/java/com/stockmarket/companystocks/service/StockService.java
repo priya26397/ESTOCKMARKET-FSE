@@ -3,6 +3,7 @@ package com.stockmarket.companystocks.service;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -97,5 +98,17 @@ public class StockService {
 	@SuppressWarnings("unchecked")
 	private Object map(Object object, @SuppressWarnings("rawtypes") Class clazz) {
 		return object != null ? modelMapper.map(object, clazz) : null;
+	}
+
+	public StockDto updateStock(StockDto stockDto) {
+		Optional<Stocks> stockDtoFetch=stockRepository.findById(stockDto.getId());
+		Stocks stockResult=new Stocks();
+		if(stockDtoFetch.isPresent()) {
+			stockDtoFetch.get().setCompanyCode(stockDto.getCompanyCode());
+			stockDtoFetch.get().setPrice(stockDto.getPrice());
+			stockResult=stockRepository.save(stockDtoFetch.get());
+		}
+		return (StockDto) modelMapper.map(stockResult, StockDto.class);
+		
 	}
 }

@@ -43,6 +43,13 @@ public class StockController {
 				HttpStatus.OK);
 	}
 
+	
+	@ApiOperation(value = "Update stocks", response = StockDto.class)
+	@RequestMapping(value = "/update", method = RequestMethod.POST, produces = "application/json")
+	public ResponseEntity<StockDto> updateStock(@RequestBody StockDto stockDto) {
+		return new ResponseEntity<StockDto>(stockService.updateStock(stockDto), HttpStatus.CREATED);
+	}
+	
 	@ApiOperation(value = "Delete company stocks", response = Boolean.class)
 	@RequestMapping(value = "/{companyCode}", method = RequestMethod.DELETE, produces = "application/json")
 	public ResponseEntity<Boolean> deleteCompanyStocks(@PathVariable String companyCode) {
