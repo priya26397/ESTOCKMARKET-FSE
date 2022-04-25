@@ -6,7 +6,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 
@@ -19,14 +19,13 @@ public class UserDTO {
 	private long id;
 	private String firstName;
 	private String lastName;
-	@NotBlank
+	@NotNull
 	@Size(max = 100)
     @Column(unique = true)
 	private String userName;
-	@NotBlank
+	@NotNull
 	@Size(max = 100)
     @Column(unique = true)
-	private String emailId;
 	private String email;
 	private String password;
 	private long phone;
