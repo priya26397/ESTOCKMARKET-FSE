@@ -2,6 +2,8 @@ package com.estockmarket.command.domain.service;
 
 import java.util.Optional;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
@@ -14,12 +16,15 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 
 @Service
 public class UserService {
+	
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
+
 	@Autowired
 	private UserRepository userRepo;
 
 	@Autowired
 	private BCryptPasswordEncoder bCryptPasswordEncoder;
-	
+
 	@Autowired
 	private KafkaUserEventSourcing kafkaUserEventSourcing;
 
@@ -30,8 +35,9 @@ public class UserService {
 		}
 		userDetails.setPassword(bCryptPasswordEncoder.encode(userDetails.getPassword()));
 		userDetails.setEnable(true);
-		User userResult=userRepo.save(userDetails);
+		User userResult = userRepo.save(userDetails);
+		LOGGER.info("User saved successfully {}", userResult);
 		kafkaUserEventSourcing.createUser(userResult);
-		return 	userResult;
-				}
+		return userResult;
+	}
 }

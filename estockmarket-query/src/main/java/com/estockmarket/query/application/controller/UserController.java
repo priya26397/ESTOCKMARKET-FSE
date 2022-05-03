@@ -67,7 +67,8 @@ public class UserController {
 		replacements.put("user", email);
 		replacements.put("otpnum", String.valueOf(otp));
 		System.out.println(replacements);
-		String message = template.getTemplate(replacements);
+//		String message = template.getTemplate(replacements);
+		String message = String.valueOf(otp);
 		emailService.sendOtpMessage(email, "OTP - Authentication", message);
 
 		return "otppage";

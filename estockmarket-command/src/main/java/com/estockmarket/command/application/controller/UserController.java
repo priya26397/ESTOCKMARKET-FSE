@@ -1,5 +1,7 @@
 package com.estockmarket.command.application.controller;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -20,6 +22,8 @@ import io.swagger.annotations.ApiOperation;
 @Api(value="user", description="Operations pertaining to register the user")
 public class UserController {
 
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
+
 	@Autowired
 	private UserService userService;
 
@@ -27,7 +31,7 @@ public class UserController {
 	@ApiOperation(value = "Register new user",response = User.class)    
 	@RequestMapping(value = "/register", method = RequestMethod.POST, produces = "application/json")
 	public ResponseEntity<User> registerUser(@RequestBody User userDetails) throws JsonProcessingException {
-		System.out.println("enter");
+		LOGGER.info("Save user details {}", userDetails);
 		return new ResponseEntity<User>(userService.save(userDetails), HttpStatus.OK);
 	}
 

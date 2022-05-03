@@ -1,5 +1,7 @@
 package com.estockmarket.command.infrastructure.eventsourcing;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.kafka.core.KafkaTemplate;
@@ -10,11 +12,10 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
 
-import lombok.extern.log4j.Log4j2;
-
 @Component
-@Log4j2
 public class KafkaSectorEventSourcing {
+
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
 
 	@Autowired
 	private KafkaTemplate<String, String> kafkaTemplate;
@@ -28,12 +29,14 @@ public class KafkaSectorEventSourcing {
 	public void createSectorEvent(Sector sector) throws JsonProcessingException {
 		ObjectWriter objectWriter = new ObjectMapper().writer().withDefaultPrettyPrinter();
 		String json = objectWriter.writeValueAsString(sector);
+		LOGGER.info("{} topic send successfully {}",createTopicName, json);
 		kafkaTemplate.send(createTopicName, json);
 	}
 
 	public void removeSectorEvent(Sector sector) throws JsonProcessingException {
 		ObjectWriter objectWriter = new ObjectMapper().writer().withDefaultPrettyPrinter();
 		String json = objectWriter.writeValueAsString(sector);
+		LOGGER.info("{} topic send successfully {}",removeTopicName, json);
 		kafkaTemplate.send(removeTopicName, json);
 	}
 

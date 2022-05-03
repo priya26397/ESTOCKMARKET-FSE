@@ -1,5 +1,7 @@
 package com.estockmarket.command.application.controller;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -23,24 +25,29 @@ import io.swagger.annotations.ApiOperation;
 @Api(value = "stock", description = "Operations pertaining to add,update and delete stock price for the company")
 public class StockController {
 
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
+
 	@Autowired
 	private StockService stockService;
 
 	@ApiOperation(value = "Create stocks", response = StockDto.class)
 	@RequestMapping(value = "/add", method = RequestMethod.POST, produces = "application/json")
 	public ResponseEntity<StockDto> createStock(@RequestBody StockDto stockDto) throws JsonProcessingException {
+		LOGGER.info("Save stock details {}", stockDto);
 		return new ResponseEntity<StockDto>(stockService.createStock(stockDto), HttpStatus.CREATED);
 	}
 	
 	@ApiOperation(value = "Update stocks", response = StockDto.class)
 	@RequestMapping(value = "/update", method = RequestMethod.POST, produces = "application/json")
 	public ResponseEntity<StockDto> updateStock(@RequestBody StockDto stockDto) throws JsonProcessingException {
+		LOGGER.info("Update stock details {}", stockDto);
 		return new ResponseEntity<StockDto>(stockService.updateStock(stockDto), HttpStatus.CREATED);
 	}
 	
 	@ApiOperation(value = "Delete company stocks", response = Boolean.class)
 	@RequestMapping(value = "/{id}", method = RequestMethod.DELETE, produces = "application/json")
 	public ResponseEntity<Boolean> deleteCompanyStocks(@PathVariable Long id) throws JsonProcessingException {
+		LOGGER.info("Delete company stocks through{}", id);
 		return stockService.deleteCompanyStocks(id);
 	}
 
