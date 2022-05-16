@@ -5,13 +5,18 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.util.Map;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 public class EmailTemplate {
+	
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
 
 	private String template;
 	private Map<String, String> replacementParams;
 
 	public EmailTemplate(String customtemplate) {
-
+		LOGGER.info("Email template {}", customtemplate);
 		try {
 			this.template = loadTemplate(customtemplate);
 		} catch (Exception e) {
@@ -21,7 +26,7 @@ public class EmailTemplate {
 	}
 
 	private String loadTemplate(String customtemplate) throws Exception {
-
+		LOGGER.info("load template {}", customtemplate);
 		ClassLoader classLoader = getClass().getClassLoader();
 		File file = new File(classLoader.getResource(customtemplate).getFile());
 		String content = "Empty";
@@ -35,7 +40,7 @@ public class EmailTemplate {
 	}
 
 	public String getTemplate(Map<String, String> replacements) {
-
+		LOGGER.info("fetch template {}", replacements);
 		String cTemplate = this.template;
 		// Replace the String
 		for (Map.Entry<String, String> entry : replacements.entrySet()) {

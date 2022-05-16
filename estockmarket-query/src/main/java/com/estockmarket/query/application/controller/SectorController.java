@@ -2,6 +2,8 @@ package com.estockmarket.query.application.controller;
 
 import java.util.List;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -21,12 +23,16 @@ import io.swagger.annotations.ApiOperation;
 @RequestMapping("/api/${api.version}/query/market/sector")
 @Api(value = "sectors", description = "Operations pertaining to fetch sector for the company")
 public class SectorController {
+	
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
+	
 	@Autowired
 	private SectorService sectorService;
 
 	@ApiOperation(value = "Fetch all sectors", response = List.class)
 	@RequestMapping(value = "/getAll", method = RequestMethod.GET, produces = "application/json")
 	public ResponseEntity<List<SectorDto>> getSector() {
+		LOGGER.info("fetch all sector");
 		return new ResponseEntity<List<SectorDto>>(sectorService.getSector(), HttpStatus.OK);
 	}
 
