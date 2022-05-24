@@ -9,6 +9,8 @@ import java.util.Optional;
 
 import org.apache.tomcat.util.json.ParseException;
 import org.modelmapper.ModelMapper;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoOperations;
 import org.springframework.data.mongodb.core.MongoTemplate;
@@ -27,6 +29,8 @@ import com.estockmarket.query.infrastructure.repository.StockRepository;
 
 @Service
 public class StockService {
+	
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
 
 	@Autowired
 	private ModelMapper modelMapper;
@@ -41,6 +45,7 @@ public class StockService {
 	private MongoTemplate mongoTemplate;
 
 	public List<StockDto> getCompanyStocks(String companyCode, String startDate, String endDate) throws java.text.ParseException {
+		LOGGER.info("fetch company stocks based on code,date {}", companyCode,startDate,endDate);
 		SimpleDateFormat f = new SimpleDateFormat("dd-MM-yyyy");		
 		Date start = f. parse(startDate);
 		Date end = f. parse(endDate);
@@ -58,6 +63,7 @@ public class StockService {
 	}
 
 	private Criteria getStockQuery(String companyCode, long milliseconds1, long milliseconds2) {
+		LOGGER.info("fetch stock query based on code {}", companyCode,milliseconds1,milliseconds2);
 		Criteria criteria = Criteria.where("companyCode").is(companyCode);
 		if (milliseconds1 != 0 && milliseconds2 != 0) {
 			criteria.andOperator(Criteria.where("updatedOn").gte(milliseconds1).lte(milliseconds2));
@@ -66,6 +72,7 @@ public class StockService {
 	}
 
 	public List<StockAggregateDTO> getStocksAggregate(String companyCode, String startDate, String endDate) throws java.text.ParseException {
+		LOGGER.info("fetch stockaggregate based on code,date {}", companyCode,startDate,endDate);
 		SimpleDateFormat f = new SimpleDateFormat("dd-MM-yyyy");		
 		Date start = f. parse(startDate);
 		Date end = f. parse(endDate);
@@ -88,16 +95,19 @@ public class StockService {
 	}
 
 	public void createStock(Stocks stocks) {
+		LOGGER.info("save stocks {}", stocks);
 		stockRepo.save(stocks);
 	}
 
 	public void updateStock(Stocks stocks) {
+		LOGGER.info("update stocks {}", stocks);
 		if (stockRepo.findById(stocks.getId()).isPresent()) {
 			stockRepo.save(stocks);
 		}
 	}
 
 	public void removeStock(Long id) {
+		LOGGER.info("remove stocks based on id {}", id);
 		stockRepo.deleteById(id);
 	}
 

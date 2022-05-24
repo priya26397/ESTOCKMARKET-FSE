@@ -5,6 +5,8 @@ import java.util.Map;
 
 import javax.mail.MessagingException;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -31,6 +33,8 @@ import io.swagger.annotations.ApiOperation;
 @RequestMapping("/api/${api.version}/query/user/")
 @Api(value = "user", description = "Operations pertaining to authenticate the user")
 public class UserController {
+	
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
 
 	@Autowired
 	UserService userService;
@@ -47,6 +51,7 @@ public class UserController {
 	@ApiOperation(value = "Authenticate the user", response = JwtResponse.class)
 	@RequestMapping(value = "/authenticate", method = RequestMethod.GET, produces = "application/json")
 	public ResponseEntity<JwtResponse> createAuthenticationToken(@RequestBody JwtRequest credentials) {
+		LOGGER.info("authenticate user {}", credentials);
 		UserDTO dto = userService.authenticate(credentials);
 		if (dto.getUserName() != null) {
 			final String token = jwtTokenUtil.generateToken(dto);
@@ -59,7 +64,7 @@ public class UserController {
 	@ApiOperation(value = "Generate OTP", response = String.class)
 	@RequestMapping(value = "/generateOtp", method = RequestMethod.GET, produces = "text/plain")
 	public String generateOTP(@RequestParam(value = "email") String email) throws MessagingException {
-
+		LOGGER.info("generateotp {}", email);
 		int otp = otpService.generateOTP(email);
 		// Generate The Template to send OTP
 		EmailTemplate template = new EmailTemplate("SendOtp.html");
@@ -78,7 +83,7 @@ public class UserController {
 	@RequestMapping(value = "/validateOtp", method = RequestMethod.GET, produces = "text/plain")
 	public @ResponseBody String validateOtp(@RequestParam(value = "email") String email,
 			@RequestParam("otpnum") int otpnum) {
-
+		LOGGER.info("validate otp email,otp{}", email,otpnum);
 		final String SUCCESS = "Entered Otp is valid";
 		final String FAIL = "Entered Otp is NOT valid. Please Retry!";
 		// Validate the Otp

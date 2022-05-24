@@ -3,6 +3,8 @@ package com.estockmarket.query.application.controller;
 import java.text.ParseException;
 import java.util.List;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -24,6 +26,8 @@ import io.swagger.annotations.ApiOperation;
 @RequestMapping("/api/${api.version}/query/market/stock")
 @Api(value = "stocks", description = "Operations pertaining to fetch company stock price")
 public class StockController {
+	
+	private Logger LOGGER = LoggerFactory.getLogger(this.getClass());
 
 	@Autowired
 	private StockService stockService;
@@ -32,6 +36,7 @@ public class StockController {
 	@RequestMapping(value = "/get", method = RequestMethod.GET, produces = "application/json")
 	public ResponseEntity<List<StockDto>> getCompanyStocks(@RequestParam(value = "companyCode") String companyCode,
 			@RequestParam(value = "startDate") String startDate, @RequestParam(value = "endDate") String endDate) throws ParseException {
+		LOGGER.info("fetch stocks based on code,date {}", companyCode,startDate,endDate);
 		return new ResponseEntity<List<StockDto>>(stockService.getCompanyStocks(companyCode, startDate, endDate),
 				HttpStatus.OK);
 	}
@@ -41,6 +46,7 @@ public class StockController {
 	public ResponseEntity<List<StockAggregateDTO>> getCompanyAggregate(
 			@RequestParam(value = "companyCode") String companyCode,
 			@RequestParam(value = "startDate") String startDate, @RequestParam(value = "endDate") String endDate) throws ParseException {
+		LOGGER.info("fetch min,max and average stock price based on company code,date {}", companyCode,startDate,endDate);
 		return new ResponseEntity<List<StockAggregateDTO>>(
 				stockService.getStocksAggregate(companyCode, startDate, endDate), HttpStatus.OK);
 	}
