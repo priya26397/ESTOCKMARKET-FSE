@@ -5,20 +5,26 @@ services:
     restart: always
     environment:
       - MYSQL_ROOT_PASSWORD=root
-      - MYSQL_DATABASE=estockmarket 
+      - MYSQL_DATABASE=estockmarket
+      - MYSQL_TCP_PORT= 3307
+    ports:
+    - 3307:3307
+    expose:
+      - 3307      
   mongo-service:
     image: mongo
+    command: mongod --port 27018
     ports:
-      - 27017:27017
+      - 27018:27018
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: root
   zookeeper:
     image: docker.io/confluentinc/cp-zookeeper:6.1.1
     ports:
-      - "2181:2181"
+      - "2182:2182"
     environment:
-      ZOOKEEPER_CLIENT_PORT: 2181
+      ZOOKEEPER_CLIENT_PORT: 2182
 
   # reachable on 9092 from the host and on 29092 from inside docker compose
   kafka:
@@ -26,14 +32,14 @@ services:
     depends_on:
       - zookeeper
     ports:
-      - '9092:9092'
+      - '9094:9094'
     expose:
-      - '29092'
+      - '29094'
     environment:
-      KAFKA_ZOOKEEPER_CONNECT: 'zookeeper:2181'
+      KAFKA_ZOOKEEPER_CONNECT: 'zookeeper:2182'
       KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
       KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
-      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29094,PLAINTEXT_HOST://localhost:9094
       KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: '1'
       KAFKA_MIN_INSYNC_REPLICAS: '1'
 
@@ -48,17 +54,17 @@ services:
       kafka-topics --bootstrap-server kafka:29092 --list
 
       echo -e 'Creating kafka topics'
-      kafka-topics --bootstrap-server kafka:29092 --create --if-not-exists --topic createUser --replication-factor 1 --partitions 1
-      kafka-topics --bootstrap-server kafka:29092 --create --if-not-exists --topic createCompany --replication-factor 1 --partitions 1
-      kafka-topics --bootstrap-server kafka:29092 --create --if-not-exists --topic removeCompany --replication-factor 1 --partitions 1
-      kafka-topics --bootstrap-server kafka:29092 --create --if-not-exists --topic createSector --replication-factor 1 --partitions 1
-      kafka-topics --bootstrap-server kafka:29092 --create --if-not-exists --topic removeSector --replication-factor 1 --partitions 1
-      kafka-topics --bootstrap-server kafka:29092 --create --if-not-exists --topic createStock --replication-factor 1 --partitions 1
-      kafka-topics --bootstrap-server kafka:29092 --create --if-not-exists --topic updateStock --replication-factor 1 --partitions 1
-      kafka-topics --bootstrap-server kafka:29092 --create --if-not-exists --topic removeStock --replication-factor 1 --partitions 1
+      kafka-topics --bootstrap-server kafka:29094 --create --if-not-exists --topic createUser --replication-factor 1 --partitions 1
+      kafka-topics --bootstrap-server kafka:29094 --create --if-not-exists --topic createCompany --replication-factor 1 --partitions 1
+      kafka-topics --bootstrap-server kafka:29094 --create --if-not-exists --topic removeCompany --replication-factor 1 --partitions 1
+      kafka-topics --bootstrap-server kafka:29094 --create --if-not-exists --topic createSector --replication-factor 1 --partitions 1
+      kafka-topics --bootstrap-server kafka:29094 --create --if-not-exists --topic removeSector --replication-factor 1 --partitions 1
+      kafka-topics --bootstrap-server kafka:29094 --create --if-not-exists --topic createStock --replication-factor 1 --partitions 1
+      kafka-topics --bootstrap-server kafka:29094 --create --if-not-exists --topic updateStock --replication-factor 1 --partitions 1
+      kafka-topics --bootstrap-server kafka:29094 --create --if-not-exists --topic removeStock --replication-factor 1 --partitions 1
 
       echo -e 'Successfully created the following topics:'
-      kafka-topics --bootstrap-server kafka:29092 --list
+      kafka-topics --bootstrap-server kafka:29094 --list
       "
   eureka-server:
     image: eureka
@@ -94,7 +100,7 @@ services:
     ports:
       - "9093:9093"
     environment:
-      SPRING_DATASOURCE_URL: jdbc:mysql://mysql-service:3306/estockmarket?createDatabaseIfNotExist=true
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql-service:3307/estockmarket?createDatabaseIfNotExist=true
     depends_on:
       - eureka-server
       - zuul-gateway
