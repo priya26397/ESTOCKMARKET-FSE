@@ -76,10 +76,11 @@ public class CompanyService {
 		Optional<Company> company = companyrepository.findByCompanyCode(code);
 		if (company.isPresent()) {
 			Optional<Stocks> stock = stockRepository.findFirstByCompanyCodeOrderByUpdatedOnDesc(code);
-			if(stock.isPresent()) {
+			if (stock.isPresent()) {
 				converToCompanyStockDto(company.get(), stock.get(), companyStockDto);
+			} else {
+				throw new NoStocksExistsException();
 			}
-			throw new NoStocksExistsException();
 		}
 
 		return companyStockDto;
