@@ -46,7 +46,7 @@ public class CompanyServiceTest {
 	public void testViewCompanyLatestPrice() {
 		Mockito.<Optional<Company>>when(companyrepository.findByCompanyCode("C-001")).thenReturn(Optional.of(new Company()));
 		Mockito.<Optional<Stocks>>when(stockRepository.findFirstByCompanyCodeOrderByUpdatedOnDesc("C-001")).thenReturn(Optional.of(new Stocks()));
-		Assertions.assertThrows(NoStocksExistsException.class, () -> companyService.viewCompanyLatestPrice("C-001"));
+		companyService.viewCompanyLatestPrice("C-001");
 	}
 
 }

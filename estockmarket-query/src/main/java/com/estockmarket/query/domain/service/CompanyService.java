@@ -78,8 +78,9 @@ public class CompanyService {
 			Optional<Stocks> stock = stockRepository.findFirstByCompanyCodeOrderByUpdatedOnDesc(code);
 			if(stock.isPresent()) {
 				converToCompanyStockDto(company.get(), stock.get(), companyStockDto);
+			} else {
+				throw new NoStocksExistsException();
 			}
-			throw new NoStocksExistsException();
 		}
 
 		return companyStockDto;
