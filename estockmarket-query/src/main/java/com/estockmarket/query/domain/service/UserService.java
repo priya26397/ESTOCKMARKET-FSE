@@ -30,7 +30,7 @@ public class UserService {
 		if (credentials.getUsername() == null || credentials.getPassword() == null) {
 			throw new DataInvalidException();
 		}
-		Optional<User> user = userRepo.findByUserName(credentials.getUsername());
+		Optional<User> user = userRepo.findByEmail(credentials.getUsername());
 		return (UserDTO) modelMapper.map(user.get(), UserDTO.class);
 
 	}

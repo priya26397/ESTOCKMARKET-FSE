@@ -9,6 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -29,6 +30,7 @@ import com.estockmarket.query.domain.util.JwtResponse;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
+@CrossOrigin(origins="*",allowedHeaders="*")
 @RestController
 @RequestMapping("/api/${api.version}/query/user/")
 @Api(value = "user", description = "Operations pertaining to authenticate the user")
@@ -49,7 +51,7 @@ public class UserController {
 	private JwtTokenUtil jwtTokenUtil;
 
 	@ApiOperation(value = "Authenticate the user", response = JwtResponse.class)
-	@RequestMapping(value = "/authenticate", method = RequestMethod.GET, produces = "application/json")
+	@RequestMapping(value = "/authenticate", method = RequestMethod.POST, produces = "application/json")
 	public ResponseEntity<JwtResponse> createAuthenticationToken(@RequestBody JwtRequest credentials) {
 		LOGGER.info("authenticate user {}", credentials);
 		UserDTO dto = userService.authenticate(credentials);

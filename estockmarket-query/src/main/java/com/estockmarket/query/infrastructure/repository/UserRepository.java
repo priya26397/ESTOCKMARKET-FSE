@@ -10,6 +10,6 @@ import com.estockmarket.query.domain.model.User;
 @Repository
 public interface UserRepository extends MongoRepository<User, Integer> {
 
-	Optional<User> findByUserName(String userName);
+	Optional<User> findByEmail(String email);
 
 }
