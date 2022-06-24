@@ -18,7 +18,6 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
-@CrossOrigin
 @RestController
 @RequestMapping("/api/${api.version}/command/market/sector")
 @Api(value = "sector", description = "Operations pertaining to add and delete sector for the company")

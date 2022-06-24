@@ -21,7 +21,6 @@ import com.estockmarket.query.domain.service.StockService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
-@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
 @RequestMapping("/api/${api.version}/query/market/stock")
 @Api(value = "stocks", description = "Operations pertaining to fetch company stock price")

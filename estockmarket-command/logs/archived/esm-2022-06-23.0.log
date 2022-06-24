@@ -1,0 +1,334 @@
+2022-06-23 15:40:35,785 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 15:45:35,826 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 15:50:36,283 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 15:55:36,299 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:00:36,304 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:05:36,315 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:10:36,319 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:15:36,334 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:20:36,332 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:25:36,341 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:30:36,352 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:35:36,344 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:40:36,347 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:45:36,350 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:50:36,355 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 16:55:36,362 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:00:36,374 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:05:36,384 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:10:36,377 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:15:36,375 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:20:36,386 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:25:36,391 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:30:36,405 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:35:36,405 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:40:36,416 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:45:36,420 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:50:36,427 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 17:55:36,441 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:00:36,430 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:05:36,433 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:10:36,442 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:15:36,458 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:20:36,466 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:25:36,471 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:30:36,475 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:35:36,470 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:40:36,465 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:45:36,468 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:46:21,486 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [Thread-19] Unregistering application ESTOCKMARKET-COMMAND with eureka with status DOWN
+2022-06-23 18:46:21,487 INFO com.netflix.discovery.DiscoveryClient$3 [Thread-19] Saw local status change event StatusChangeEvent [timestamp=1655990181487, current=DOWN, previous=UP]
+2022-06-23 18:46:21,488 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092: registering service...
+2022-06-23 18:46:21,553 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092 - registration status: 204
+2022-06-23 18:46:21,610 INFO org.apache.kafka.clients.producer.KafkaProducer [Thread-19] [Producer clientId=producer-1] Closing the Kafka producer with timeoutMillis = 30000 ms.
+2022-06-23 18:46:21,618 INFO org.apache.kafka.common.metrics.Metrics [Thread-19] Metrics scheduler closed
+2022-06-23 18:46:21,618 INFO org.apache.kafka.common.metrics.Metrics [Thread-19] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-06-23 18:46:21,618 INFO org.apache.kafka.common.metrics.Metrics [Thread-19] Metrics reporters closed
+2022-06-23 18:46:21,619 INFO org.apache.kafka.common.utils.AppInfoParser [Thread-19] App info kafka.producer for producer-1 unregistered
+2022-06-23 18:46:21,621 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-19] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-23 18:46:21,632 INFO com.zaxxer.hikari.HikariDataSource [Thread-19] HikariPool-4 - Shutdown initiated...
+2022-06-23 18:46:21,640 INFO com.zaxxer.hikari.HikariDataSource [Thread-19] HikariPool-4 - Shutdown completed.
+2022-06-23 18:46:21,643 INFO com.netflix.discovery.DiscoveryClient [Thread-19] Shutting down DiscoveryClient ...
+2022-06-23 18:46:24,658 INFO com.netflix.discovery.DiscoveryClient [Thread-19] Unregistering ...
+2022-06-23 18:46:24,674 INFO com.netflix.discovery.DiscoveryClient [Thread-19] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092 - deregister  status: 200
+2022-06-23 18:46:24,682 INFO com.netflix.discovery.DiscoveryClient [Thread-19] Completed shut down of DiscoveryClient
+2022-06-23 18:46:25,049 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting EstockmarketCommandApplication using Java 11.0.12 on ctsjava91 with PID 13616 (C:\Repo\elk-stock\ESTOCKMARKET-FSE\estockmarket-command\target\classes started by cogjava182 in C:\Repo\elk-stock\ESTOCKMARKET-FSE\estockmarket-command)
+2022-06-23 18:46:25,050 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.3, Spring v5.3.9
+2022-06-23 18:46:25,050 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-23 18:46:26,076 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-23 18:46:26,127 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 50 ms. Found 4 JPA repository interfaces.
+2022-06-23 18:46:26,277 INFO org.springframework.cloud.context.scope.GenericScope [restartedMain] BeanFactory id=6948d5fa-1ac7-3501-bc7f-398ecb25b8ac
+2022-06-23 18:46:26,489 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 6092 (http)
+2022-06-23 18:46:26,490 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-6092"]
+2022-06-23 18:46:26,490 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-06-23 18:46:26,491 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.50]
+2022-06-23 18:46:26,586 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-06-23 18:46:26,586 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1532 ms
+2022-06-23 18:46:26,734 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-23 18:46:26,748 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Starting...
+2022-06-23 18:46:26,804 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-5 - Start completed.
+2022-06-23 18:46:26,805 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-06-23 18:46:26,972 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-23 18:46:26,973 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-23 18:46:27,337 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-23 18:46:27,546 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 3 endpoint(s) beneath base path '/actuator'
+2022-06-23 18:46:27,671 WARN org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] Unable to start LiveReload server
+2022-06-23 18:46:27,908 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [restartedMain] Eureka HTTP Client uses RestTemplate.
+2022-06-23 18:46:27,956 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [restartedMain] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-06-23 18:46:27,997 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [restartedMain] Setting initial instance status as: STARTING
+2022-06-23 18:46:28,000 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Initializing Eureka in region us-east-1
+2022-06-23 18:46:28,000 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [restartedMain] Resolving eureka endpoints via configuration
+2022-06-23 18:46:28,001 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Disable delta property : false
+2022-06-23 18:46:28,002 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Single vip registry refresh property : null
+2022-06-23 18:46:28,002 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Force full registry fetch : false
+2022-06-23 18:46:28,002 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Application is null : false
+2022-06-23 18:46:28,002 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Registered Applications size is zero : true
+2022-06-23 18:46:28,002 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Application version is -1: true
+2022-06-23 18:46:28,003 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Getting all instance registry info from the eureka server
+2022-06-23 18:46:28,019 INFO com.netflix.discovery.DiscoveryClient [restartedMain] The response status is 200
+2022-06-23 18:46:28,020 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Starting heartbeat executor: renew interval is: 30
+2022-06-23 18:46:28,021 INFO com.netflix.discovery.InstanceInfoReplicator [restartedMain] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-06-23 18:46:28,022 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Discovery Client initialized at timestamp 1655990188022 with initial instances count: 3
+2022-06-23 18:46:28,024 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [restartedMain] Registering application ESTOCKMARKET-COMMAND with eureka with status UP
+2022-06-23 18:46:28,025 INFO com.netflix.discovery.DiscoveryClient$3 [restartedMain] Saw local status change event StatusChangeEvent [timestamp=1655990188025, current=UP, previous=STARTING]
+2022-06-23 18:46:28,025 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092: registering service...
+2022-06-23 18:46:28,027 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-6092"]
+2022-06-23 18:46:28,031 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 6092 (http) with context path ''
+2022-06-23 18:46:28,032 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [restartedMain] Updating port to 6092
+2022-06-23 18:46:28,039 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092 - registration status: 204
+2022-06-23 18:46:28,080 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2022-06-23 18:46:28,081 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2022-06-23 18:46:28,083 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2022-06-23 18:46:28,115 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started EstockmarketCommandApplication in 3.191 seconds (JVM running for 30134.713)
+2022-06-23 18:46:28,119 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-06-23 18:51:28,014 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:56:28,024 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 18:56:50,295 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(12)-127.0.0.1] Application shutdown requested.
+2022-06-23 18:56:50,297 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(12)-127.0.0.1] Unregistering application ESTOCKMARKET-COMMAND with eureka with status DOWN
+2022-06-23 18:56:50,298 INFO com.netflix.discovery.DiscoveryClient$3 [RMI TCP Connection(12)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1655990810298, current=DOWN, previous=UP]
+2022-06-23 18:56:50,299 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092: registering service...
+2022-06-23 18:56:50,320 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092 - registration status: 204
+2022-06-23 18:56:50,378 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [RMI TCP Connection(12)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-06-23 18:56:50,381 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(12)-127.0.0.1] HikariPool-5 - Shutdown initiated...
+2022-06-23 18:56:50,390 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(12)-127.0.0.1] HikariPool-5 - Shutdown completed.
+2022-06-23 18:56:50,391 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(12)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-06-23 18:56:53,395 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(12)-127.0.0.1] Unregistering ...
+2022-06-23 18:56:53,412 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(12)-127.0.0.1] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092 - deregister  status: 200
+2022-06-23 18:56:53,417 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(12)-127.0.0.1] Completed shut down of DiscoveryClient
+2022-06-23 18:57:07,776 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting EstockmarketCommandApplication using Java 11.0.12 on ctsjava91 with PID 10200 (C:\Repo\elk-stock\ESTOCKMARKET-FSE\estockmarket-command\target\classes started by cogjava182 in C:\Repo\elk-stock\ESTOCKMARKET-FSE\estockmarket-command)
+2022-06-23 18:57:07,780 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.3, Spring v5.3.9
+2022-06-23 18:57:07,781 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-06-23 18:57:07,880 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2022-06-23 18:57:07,920 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-06-23 18:57:07,921 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-06-23 18:57:10,548 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-06-23 18:57:10,768 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 207 ms. Found 4 JPA repository interfaces.
+2022-06-23 18:57:11,354 INFO org.springframework.cloud.context.scope.GenericScope [restartedMain] BeanFactory id=6948d5fa-1ac7-3501-bc7f-398ecb25b8ac
+2022-06-23 18:57:12,651 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 6092 (http)
+2022-06-23 18:57:12,673 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-6092"]
+2022-06-23 18:57:12,674 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-06-23 18:57:12,674 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.50]
+2022-06-23 18:57:12,999 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-06-23 18:57:13,000 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 5078 ms
+2022-06-23 18:57:13,635 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-06-23 18:57:13,813 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-06-23 18:57:14,508 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-06-23 18:57:14,932 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2022-06-23 18:57:15,669 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2022-06-23 18:57:15,695 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2022-06-23 18:57:17,185 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-06-23 18:57:17,203 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-06-23 18:57:18,726 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-06-23 18:57:19,310 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 3 endpoint(s) beneath base path '/actuator'
+2022-06-23 18:57:19,742 WARN org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] Unable to start LiveReload server
+2022-06-23 18:57:20,429 INFO org.springframework.cloud.netflix.eureka.config.DiscoveryClientOptionalArgsConfiguration [restartedMain] Eureka HTTP Client uses RestTemplate.
+2022-06-23 18:57:20,627 WARN org.springframework.cloud.loadbalancer.config.LoadBalancerCacheAutoConfiguration$LoadBalancerCaffeineWarnLogger [restartedMain] Spring Cloud LoadBalancer is currently working with the default cache. You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2022-06-23 18:57:20,768 INFO org.springframework.cloud.netflix.eureka.InstanceInfoFactory [restartedMain] Setting initial instance status as: STARTING
+2022-06-23 18:57:20,869 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Initializing Eureka in region us-east-1
+2022-06-23 18:57:20,879 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [restartedMain] Resolving eureka endpoints via configuration
+2022-06-23 18:57:20,936 INFO org.apache.juli.logging.DirectJDKLog [RMI TCP Connection(2)-127.0.0.1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-23 18:57:20,937 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(2)-127.0.0.1] Initializing Servlet 'dispatcherServlet'
+2022-06-23 18:57:20,940 INFO org.springframework.web.servlet.FrameworkServlet [RMI TCP Connection(2)-127.0.0.1] Completed initialization in 2 ms
+2022-06-23 18:57:20,949 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Disable delta property : false
+2022-06-23 18:57:20,949 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Single vip registry refresh property : null
+2022-06-23 18:57:20,950 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Force full registry fetch : false
+2022-06-23 18:57:20,950 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Application is null : false
+2022-06-23 18:57:20,950 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Registered Applications size is zero : true
+2022-06-23 18:57:20,951 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Application version is -1: true
+2022-06-23 18:57:20,951 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Getting all instance registry info from the eureka server
+2022-06-23 18:57:21,594 INFO com.netflix.discovery.DiscoveryClient [restartedMain] The response status is 200
+2022-06-23 18:57:21,599 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Starting heartbeat executor: renew interval is: 30
+2022-06-23 18:57:21,604 INFO com.netflix.discovery.InstanceInfoReplicator [restartedMain] InstanceInfoReplicator onDemand update allowed rate per min is 4
+2022-06-23 18:57:21,611 INFO com.netflix.discovery.DiscoveryClient [restartedMain] Discovery Client initialized at timestamp 1655990841609 with initial instances count: 3
+2022-06-23 18:57:21,615 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [restartedMain] Registering application ESTOCKMARKET-COMMAND with eureka with status UP
+2022-06-23 18:57:21,615 INFO com.netflix.discovery.DiscoveryClient$3 [restartedMain] Saw local status change event StatusChangeEvent [timestamp=1655990841615, current=UP, previous=STARTING]
+2022-06-23 18:57:21,618 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092: registering service...
+2022-06-23 18:57:21,618 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-6092"]
+2022-06-23 18:57:21,660 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-COMMAND/host.docker.internal:estockmarket-command:6092 - registration status: 204
+2022-06-23 18:57:21,671 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 6092 (http) with context path ''
+2022-06-23 18:57:21,673 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaAutoServiceRegistration [restartedMain] Updating port to 6092
+2022-06-23 18:57:21,728 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Context refreshed
+2022-06-23 18:57:21,781 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [restartedMain] Found 1 custom documentation plugin(s)
+2022-06-23 18:57:21,796 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [restartedMain] Scanning for api listing references
+2022-06-23 18:57:22,013 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started EstockmarketCommandApplication in 15.79 seconds (JVM running for 18.23)
+2022-06-23 19:02:20,958 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:05:19,236 INFO com.estockmarket.command.application.controller.StockController [http-nio-6092-exec-6] Delete company stocks through24
+2022-06-23 19:05:19,365 INFO com.estockmarket.command.infrastructure.eventsourcing.KafkaStocksEventSourcing [http-nio-6092-exec-6] removeStock topic send successfully {
+  "id" : 24,
+  "companyCode" : "C-008",
+  "price" : 46.0,
+  "createdOn" : 1655919566000,
+  "updatedOn" : 1655919566000
+}
+2022-06-23 19:05:19,392 INFO org.apache.kafka.common.config.AbstractConfig [http-nio-6092-exec-6] ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [localhost:9092]
+	buffer.memory = 33554432
+	client.dns.lookup = use_all_dns_ips
+	client.id = producer-1
+	compression.type = none
+	connections.max.idle.ms = 540000
+	delivery.timeout.ms = 120000
+	enable.idempotence = false
+	interceptor.classes = []
+	internal.auto.downgrade.txn.commit = true
+	key.serializer = class org.apache.kafka.common.serialization.StringSerializer
+	linger.ms = 0
+	max.block.ms = 60000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metadata.max.idle.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 2147483647
+	retry.backoff.ms = 100
+	sasl.client.callback.handler.class = null
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.login.callback.handler.class = null
+	sasl.login.class = null
+	sasl.login.refresh.buffer.seconds = 300
+	sasl.login.refresh.min.period.seconds = 60
+	sasl.login.refresh.window.factor = 0.8
+	sasl.login.refresh.window.jitter = 0.05
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	security.providers = null
+	send.buffer.bytes = 131072
+	socket.connection.setup.timeout.max.ms = 127000
+	socket.connection.setup.timeout.ms = 10000
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.3]
+	ssl.endpoint.identification.algorithm = https
+	ssl.engine.factory.class = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.certificate.chain = null
+	ssl.keystore.key = null
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLSv1.3
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.certificates = null
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.springframework.kafka.support.serializer.JsonSerializer
+
+2022-06-23 19:05:19,489 INFO org.apache.kafka.common.utils.AppInfoParser$AppInfo [http-nio-6092-exec-6] Kafka version: 2.7.1
+2022-06-23 19:05:19,490 INFO org.apache.kafka.common.utils.AppInfoParser$AppInfo [http-nio-6092-exec-6] Kafka commitId: 61dbce85d0d41457
+2022-06-23 19:05:19,490 INFO org.apache.kafka.common.utils.AppInfoParser$AppInfo [http-nio-6092-exec-6] Kafka startTimeMs: 1655991319485
+2022-06-23 19:05:19,854 INFO org.apache.kafka.clients.Metadata [kafka-producer-network-thread | producer-1] [Producer clientId=producer-1] Cluster ID: 5kpO7pNKTFqroM6YwsJ86A
+2022-06-23 19:05:19,874 INFO com.estockmarket.command.domain.service.StockService [http-nio-6092-exec-6] Stocks removed successfully
+2022-06-23 19:07:20,961 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:08:52,090 INFO com.estockmarket.command.application.controller.StockController [http-nio-6092-exec-1] Save stock details com.estockmarket.command.application.dto.StockDto@5e0a3546
+2022-06-23 19:08:52,196 INFO com.estockmarket.command.infrastructure.eventsourcing.KafkaStocksEventSourcing [http-nio-6092-exec-1] createStock topic send successfully {
+  "id" : 25,
+  "companyCode" : "C-008",
+  "price" : 49.0,
+  "createdOn" : 1655991532166,
+  "updatedOn" : 1655991532166
+}
+2022-06-23 19:08:52,201 INFO com.estockmarket.command.domain.service.StockService [http-nio-6092-exec-1] Stocks saved successfully com.estockmarket.command.domain.entity.Stocks@144218
+2022-06-23 19:09:41,774 INFO com.estockmarket.command.application.controller.StockController [http-nio-6092-exec-2] Delete company stocks through25
+2022-06-23 19:09:41,781 INFO com.estockmarket.command.infrastructure.eventsourcing.KafkaStocksEventSourcing [http-nio-6092-exec-2] removeStock topic send successfully {
+  "id" : 25,
+  "companyCode" : "C-008",
+  "price" : 49.0,
+  "createdOn" : 1655991532000,
+  "updatedOn" : 1655991532000
+}
+2022-06-23 19:09:41,782 INFO com.estockmarket.command.domain.service.StockService [http-nio-6092-exec-2] Stocks removed successfully
+2022-06-23 19:12:20,970 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:17:20,978 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:22:20,990 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:27:20,996 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:32:20,999 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:37:21,002 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:42:21,001 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:47:20,995 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:52:21,002 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 19:57:21,007 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:02:21,016 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:07:21,019 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:12:21,022 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:17:21,028 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:22:21,025 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:27:21,031 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:32:21,042 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:37:21,052 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:42:21,065 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:47:21,066 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:52:21,077 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 20:57:21,093 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:02:21,094 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:07:21,107 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:12:21,113 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:17:21,127 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:22:21,129 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:27:21,124 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:32:21,122 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:37:21,128 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:42:21,133 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:47:21,143 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:52:21,148 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 21:57:21,156 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:02:21,161 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:07:21,164 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:12:21,170 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:17:21,173 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:22:21,179 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:27:21,191 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:32:21,183 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:37:21,176 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:42:21,173 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:47:21,177 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:52:21,176 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 22:57:21,187 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:02:21,186 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:07:21,199 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:12:21,207 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:17:21,221 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:22:21,232 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:27:27,861 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:32:27,873 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:37:27,886 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-06-23 23:41:53,530 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s918ms582µs200ns).

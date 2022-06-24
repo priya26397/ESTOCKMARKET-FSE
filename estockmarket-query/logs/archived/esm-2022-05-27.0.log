@@ -1,0 +1,347 @@
+2022-05-27 00:00:07,584 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:05:07,817 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:10:07,823 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:15:07,833 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:20:07,833 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:25:07,847 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:30:07,850 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:35:07,858 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:40:07,870 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:45:07,875 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:50:07,890 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 00:55:07,891 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:00:07,892 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:05:07,908 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:10:07,912 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:15:07,915 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:20:07,896 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:25:07,875 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:30:07,861 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:35:07,859 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:40:07,847 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:45:07,845 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:50:07,843 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 01:55:07,846 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:00:07,842 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:05:07,849 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:10:07,853 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:15:07,849 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:20:07,857 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:25:07,868 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:30:07,869 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:35:07,878 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:40:07,889 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:45:07,908 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:50:07,922 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 02:55:07,927 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:00:07,927 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:05:07,935 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:10:07,943 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:15:07,944 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:20:07,957 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:25:07,974 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:30:07,986 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:35:07,979 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:40:07,971 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:45:07,966 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:50:07,952 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 03:55:07,947 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:00:07,942 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:05:07,936 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:10:07,934 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:15:07,932 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:20:07,941 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:25:07,951 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:30:07,956 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:35:07,953 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:40:07,965 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:45:07,969 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:50:07,971 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 04:55:07,971 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:00:07,981 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:05:07,989 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:10:07,993 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:15:08,003 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:20:08,021 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:25:08,034 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:30:08,046 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:35:08,062 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:40:08,088 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:45:08,100 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:50:08,109 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 05:55:08,108 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:00:08,103 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:05:08,105 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:10:08,107 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:15:08,106 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:20:08,111 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:25:08,113 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:30:08,109 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:35:08,103 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:40:08,099 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:45:08,107 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:50:08,105 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 06:55:08,102 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:00:08,110 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:05:08,107 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:10:08,117 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:15:08,128 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:20:08,128 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:25:08,139 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:30:08,150 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:35:08,151 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:40:08,159 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:45:08,170 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:50:08,184 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 07:55:08,190 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:00:08,191 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:05:08,194 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:10:08,185 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:15:08,185 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:20:08,178 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:25:08,168 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:30:08,160 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:35:08,156 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:40:08,157 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:45:08,164 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:50:08,168 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 08:55:08,163 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:00:08,169 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:05:08,180 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:10:08,179 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:15:08,184 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:20:08,184 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:25:08,191 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:30:08,203 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:35:08,208 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:40:08,212 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:45:08,219 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:50:08,226 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 09:55:08,227 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:00:08,229 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:05:08,239 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:10:08,245 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:15:08,257 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:20:08,257 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:25:08,254 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:30:08,254 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:35:08,250 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:40:08,248 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:45:08,246 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:50:08,251 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 10:55:08,256 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:00:08,258 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:05:08,272 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:10:08,278 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:15:08,284 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:20:08,290 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:25:08,304 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:30:08,303 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:35:08,312 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:40:08,311 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:45:08,309 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:50:08,321 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 11:55:08,326 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:00:08,329 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:05:08,350 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:10:08,356 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:15:08,356 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:20:08,366 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:25:08,370 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:30:08,377 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:35:08,383 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:40:08,396 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:45:08,401 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:50:08,407 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 12:55:08,410 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:00:08,418 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:05:08,431 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:10:08,451 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:15:08,467 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:20:08,486 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:25:08,490 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:30:08,491 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:33:07,111 INFO com.estockmarket.query.application.controller.CompanyController [http-nio-6093-exec-9] fetch company latest stock price based on code C-006
+2022-05-27 13:33:07,231 INFO com.estockmarket.query.domain.service.CompanyService [http-nio-6093-exec-9] fetch company latest stock price based on code C-006
+2022-05-27 13:33:18,701 INFO com.estockmarket.query.application.controller.CompanyController [http-nio-6093-exec-5] fetch company latest stock price based on code C-008
+2022-05-27 13:33:18,702 INFO com.estockmarket.query.domain.service.CompanyService [http-nio-6093-exec-5] fetch company latest stock price based on code C-008
+2022-05-27 13:33:19,002 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-6093-exec-5] Resolved [com.estockmarket.query.domain.exception.NoStocksExistsException]
+2022-05-27 13:33:38,890 INFO com.estockmarket.query.application.controller.CompanyController [http-nio-6093-exec-7] fetch company latest stock price based on code C-008
+2022-05-27 13:33:38,891 INFO com.estockmarket.query.domain.service.CompanyService [http-nio-6093-exec-7] fetch company latest stock price based on code C-008
+2022-05-27 13:33:38,915 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-6093-exec-7] Resolved [com.estockmarket.query.domain.exception.NoStocksExistsException]
+2022-05-27 13:35:08,505 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:40:08,516 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:44:59,693 INFO com.estockmarket.query.application.controller.UserController [http-nio-6093-exec-6] authenticate user com.estockmarket.query.domain.util.JwtRequest@5f19b67
+2022-05-27 13:44:59,718 INFO com.estockmarket.query.domain.service.UserService [http-nio-6093-exec-6] user authenticatecom.estockmarket.query.domain.util.JwtRequest@5f19b67
+2022-05-27 13:45:08,522 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:50:08,527 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 13:50:24,234 INFO com.estockmarket.query.domain.service.StockService [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] save stocks com.estockmarket.query.domain.model.Stocks@1f95cd35
+2022-05-27 13:50:46,214 INFO com.estockmarket.query.application.controller.CompanyController [http-nio-6093-exec-3] fetch company latest stock price based on code C-008
+2022-05-27 13:50:46,215 INFO com.estockmarket.query.domain.service.CompanyService [http-nio-6093-exec-3] fetch company latest stock price based on code C-008
+2022-05-27 13:50:46,350 INFO com.estockmarket.query.domain.service.CompanyService [http-nio-6093-exec-3] convert to company stock dto company,stock,companystockDtocom.estockmarket.query.domain.model.Company@2d3364d9
+2022-05-27 13:55:08,537 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:00:08,551 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:05:08,561 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:10:08,569 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:15:08,584 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:20:08,586 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:25:08,586 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:30:08,595 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:35:08,604 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:40:08,604 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:45:08,615 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:50:08,653 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 14:55:08,692 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:00:08,676 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:05:08,660 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:10:08,642 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:15:08,631 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:20:08,626 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:25:08,621 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:30:08,613 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:35:08,603 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:40:08,604 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:45:08,606 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:50:08,602 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 15:55:08,605 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:00:08,602 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:05:08,603 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:10:08,608 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:15:08,627 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:20:08,623 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:25:08,625 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:30:08,620 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:35:08,619 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:40:08,627 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:45:08,631 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:50:08,629 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 16:55:08,633 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:00:08,648 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:05:08,648 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:10:08,659 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:15:08,673 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:20:08,700 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:25:08,704 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:30:08,716 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:35:08,726 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:40:08,733 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:45:08,737 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:50:08,738 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 17:55:08,744 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:00:08,747 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:05:08,760 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:10:08,761 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:15:08,767 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:20:08,787 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:25:08,802 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:30:08,807 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:35:08,813 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:40:08,823 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:45:08,828 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:50:08,831 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 18:55:08,836 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:00:08,837 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:05:08,853 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:10:08,863 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:15:08,876 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:20:08,890 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:25:08,904 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:30:08,895 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:35:08,880 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:40:08,876 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:45:08,856 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:50:08,843 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 19:55:08,832 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:00:08,832 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:05:08,822 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:10:08,818 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:15:08,831 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:20:08,825 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:25:08,845 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:30:08,845 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:35:08,838 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:40:08,829 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:45:08,824 INFO com.netflix.discovery.shared.resolver.aws.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2022-05-27 20:48:50,370 INFO org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(11)-127.0.0.1] Application shutdown requested.
+2022-05-27 20:48:51,251 INFO org.springframework.cloud.netflix.eureka.serviceregistry.EurekaServiceRegistry [RMI TCP Connection(11)-127.0.0.1] Unregistering application ESTOCKMARKET-QUERY with eureka with status DOWN
+2022-05-27 20:48:51,293 INFO com.netflix.discovery.DiscoveryClient$3 [RMI TCP Connection(11)-127.0.0.1] Saw local status change event StatusChangeEvent [timestamp=1653664731293, current=DOWN, previous=UP]
+2022-05-27 20:48:51,396 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-QUERY/host.docker.internal:estockmarket-query:6093: registering service...
+2022-05-27 20:48:51,886 INFO com.netflix.discovery.DiscoveryClient [DiscoveryClient-InstanceInfoReplicator-0] DiscoveryClient_ESTOCKMARKET-QUERY/host.docker.internal:estockmarket-query:6093 - registration status: 204
+2022-05-27 20:48:54,168 INFO org.apache.kafka.clients.consumer.internals.ConsumerCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] [Consumer clientId=consumer-group_id-2, groupId=group_id] Revoke previously assigned partitions createUser-0
+2022-05-27 20:48:54,168 INFO org.apache.kafka.clients.consumer.internals.ConsumerCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] [Consumer clientId=consumer-group_id-8, groupId=group_id] Revoke previously assigned partitions removeCompany-0
+2022-05-27 20:48:54,168 INFO org.apache.kafka.clients.consumer.internals.ConsumerCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] [Consumer clientId=consumer-group_id-5, groupId=group_id] Revoke previously assigned partitions removeStock-0
+2022-05-27 20:48:54,168 INFO org.apache.kafka.clients.consumer.internals.ConsumerCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] [Consumer clientId=consumer-group_id-3, groupId=group_id] Revoke previously assigned partitions createSector-0
+2022-05-27 20:48:54,168 INFO org.apache.kafka.clients.consumer.internals.ConsumerCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] [Consumer clientId=consumer-group_id-4, groupId=group_id] Revoke previously assigned partitions removeSector-0
+2022-05-27 20:48:54,168 INFO org.apache.kafka.clients.consumer.internals.ConsumerCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] [Consumer clientId=consumer-group_id-1, groupId=group_id] Revoke previously assigned partitions updateStock-0
+2022-05-27 20:48:54,168 INFO org.apache.kafka.clients.consumer.internals.ConsumerCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [Consumer clientId=consumer-group_id-7, groupId=group_id] Revoke previously assigned partitions createCompany-0
+2022-05-27 20:48:54,168 INFO org.apache.kafka.clients.consumer.internals.ConsumerCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] [Consumer clientId=consumer-group_id-6, groupId=group_id] Revoke previously assigned partitions createStock-0
+2022-05-27 20:48:54,206 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] group_id: partitions revoked: [removeCompany-0]
+2022-05-27 20:48:54,206 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] group_id: partitions revoked: [updateStock-0]
+2022-05-27 20:48:54,206 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] group_id: partitions revoked: [createSector-0]
+2022-05-27 20:48:54,206 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] group_id: partitions revoked: [removeStock-0]
+2022-05-27 20:48:54,206 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] group_id: partitions revoked: [removeSector-0]
+2022-05-27 20:48:54,206 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] group_id: partitions revoked: [createCompany-0]
+2022-05-27 20:48:54,206 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] group_id: partitions revoked: [createUser-0]
+2022-05-27 20:48:54,206 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] group_id: partitions revoked: [createStock-0]
+2022-05-27 20:48:54,268 INFO org.apache.kafka.clients.consumer.internals.AbstractCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] [Consumer clientId=consumer-group_id-1, groupId=group_id] Member consumer-group_id-1-3d9671ce-c018-4804-8e61-bd4c7eef4840 sending LeaveGroup request to coordinator host.docker.internal:9092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2022-05-27 20:48:54,268 INFO org.apache.kafka.clients.consumer.internals.AbstractCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [Consumer clientId=consumer-group_id-7, groupId=group_id] Member consumer-group_id-7-4071e602-d76f-403e-9ce4-1d8c8a80f94f sending LeaveGroup request to coordinator host.docker.internal:9092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2022-05-27 20:48:54,268 INFO org.apache.kafka.clients.consumer.internals.AbstractCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] [Consumer clientId=consumer-group_id-3, groupId=group_id] Member consumer-group_id-3-cbf60e8c-3bd7-4bdc-a3ee-e275f248fd72 sending LeaveGroup request to coordinator host.docker.internal:9092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2022-05-27 20:48:54,269 INFO org.apache.kafka.clients.consumer.internals.AbstractCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] [Consumer clientId=consumer-group_id-8, groupId=group_id] Member consumer-group_id-8-50c82dcd-c462-4710-946e-2f298fc24a56 sending LeaveGroup request to coordinator host.docker.internal:9092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2022-05-27 20:48:54,268 INFO org.apache.kafka.clients.consumer.internals.AbstractCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] [Consumer clientId=consumer-group_id-4, groupId=group_id] Member consumer-group_id-4-df544855-93f0-403f-a8b4-b8d13d9cfb41 sending LeaveGroup request to coordinator host.docker.internal:9092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2022-05-27 20:48:54,268 INFO org.apache.kafka.clients.consumer.internals.AbstractCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] [Consumer clientId=consumer-group_id-6, groupId=group_id] Member consumer-group_id-6-cf34be04-e24e-4d8a-99cb-1f9a6a15e125 sending LeaveGroup request to coordinator host.docker.internal:9092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2022-05-27 20:48:54,268 INFO org.apache.kafka.clients.consumer.internals.AbstractCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] [Consumer clientId=consumer-group_id-5, groupId=group_id] Member consumer-group_id-5-6812ceba-e922-4aee-82d5-50df25fff869 sending LeaveGroup request to coordinator host.docker.internal:9092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2022-05-27 20:48:54,334 INFO org.apache.kafka.clients.consumer.KafkaConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] [Consumer clientId=consumer-group_id-5, groupId=group_id] Unsubscribed all topics or patterns and assigned partitions
+2022-05-27 20:48:54,334 INFO org.apache.kafka.clients.consumer.KafkaConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] [Consumer clientId=consumer-group_id-8, groupId=group_id] Unsubscribed all topics or patterns and assigned partitions
+2022-05-27 20:48:54,378 INFO org.apache.kafka.clients.consumer.KafkaConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] [Consumer clientId=consumer-group_id-1, groupId=group_id] Unsubscribed all topics or patterns and assigned partitions
+2022-05-27 20:48:54,383 INFO org.apache.kafka.clients.consumer.KafkaConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] [Consumer clientId=consumer-group_id-7, groupId=group_id] Unsubscribed all topics or patterns and assigned partitions
+2022-05-27 20:48:54,387 INFO org.apache.kafka.clients.consumer.KafkaConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] [Consumer clientId=consumer-group_id-6, groupId=group_id] Unsubscribed all topics or patterns and assigned partitions
+2022-05-27 20:48:54,387 INFO org.apache.kafka.clients.consumer.KafkaConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] [Consumer clientId=consumer-group_id-4, groupId=group_id] Unsubscribed all topics or patterns and assigned partitions
+2022-05-27 20:48:54,388 INFO org.apache.kafka.clients.consumer.KafkaConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] [Consumer clientId=consumer-group_id-3, groupId=group_id] Unsubscribed all topics or patterns and assigned partitions
+2022-05-27 20:48:54,412 INFO org.apache.kafka.clients.consumer.internals.AbstractCoordinator [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] [Consumer clientId=consumer-group_id-2, groupId=group_id] Member consumer-group_id-2-af145f29-5a55-4c8c-909a-f8eb75dd2f86 sending LeaveGroup request to coordinator host.docker.internal:9092 (id: 2147483647 rack: null) due to the consumer unsubscribed from all topics
+2022-05-27 20:48:54,413 INFO org.apache.kafka.clients.consumer.KafkaConsumer [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] [Consumer clientId=consumer-group_id-2, groupId=group_id] Unsubscribed all topics or patterns and assigned partitions
+2022-05-27 20:48:54,831 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] Metrics scheduler closed
+2022-05-27 20:48:54,831 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] Metrics scheduler closed
+2022-05-27 20:48:54,832 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] Metrics scheduler closed
+2022-05-27 20:48:54,835 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-05-27 20:48:54,835 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-05-27 20:48:54,835 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-05-27 20:48:54,835 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] Metrics reporters closed
+2022-05-27 20:48:54,835 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] Metrics reporters closed
+2022-05-27 20:48:54,837 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] Metrics reporters closed
+2022-05-27 20:48:54,847 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] Metrics scheduler closed
+2022-05-27 20:48:54,847 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-05-27 20:48:54,852 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] Metrics reporters closed
+2022-05-27 20:48:54,854 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] Metrics scheduler closed
+2022-05-27 20:48:54,854 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-05-27 20:48:54,854 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] Metrics reporters closed
+2022-05-27 20:48:54,855 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] Metrics scheduler closed
+2022-05-27 20:48:54,856 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-05-27 20:48:54,856 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] Metrics reporters closed
+2022-05-27 20:48:54,860 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] Metrics scheduler closed
+2022-05-27 20:48:54,871 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-05-27 20:48:54,872 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] Metrics reporters closed
+2022-05-27 20:48:54,906 INFO org.apache.kafka.common.utils.AppInfoParser [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] App info kafka.consumer for consumer-group_id-7 unregistered
+2022-05-27 20:48:54,910 INFO org.apache.kafka.common.utils.AppInfoParser [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] App info kafka.consumer for consumer-group_id-8 unregistered
+2022-05-27 20:48:54,910 INFO org.apache.kafka.common.utils.AppInfoParser [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] App info kafka.consumer for consumer-group_id-2 unregistered
+2022-05-27 20:48:54,911 INFO org.apache.kafka.common.utils.AppInfoParser [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] App info kafka.consumer for consumer-group_id-6 unregistered
+2022-05-27 20:48:54,911 INFO org.apache.kafka.common.utils.AppInfoParser [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] App info kafka.consumer for consumer-group_id-1 unregistered
+2022-05-27 20:48:54,912 INFO org.apache.kafka.common.utils.AppInfoParser [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] App info kafka.consumer for consumer-group_id-3 unregistered
+2022-05-27 20:48:54,919 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] group_id: Consumer stopped
+2022-05-27 20:48:54,916 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] group_id: Consumer stopped
+2022-05-27 20:48:54,916 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#5-0-C-1] group_id: Consumer stopped
+2022-05-27 20:48:54,918 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] group_id: Consumer stopped
+2022-05-27 20:48:54,916 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#7-0-C-1] group_id: Consumer stopped
+2022-05-27 20:48:54,916 INFO org.apache.kafka.common.utils.AppInfoParser [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] App info kafka.consumer for consumer-group_id-4 unregistered
+2022-05-27 20:48:54,917 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#6-0-C-1] group_id: Consumer stopped
+2022-05-27 20:48:54,921 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] group_id: Consumer stopped
+2022-05-27 20:48:55,203 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] Metrics scheduler closed
+2022-05-27 20:48:55,203 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] Closing reporter org.apache.kafka.common.metrics.JmxReporter
+2022-05-27 20:48:55,203 INFO org.apache.kafka.common.metrics.Metrics [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] Metrics reporters closed
+2022-05-27 20:48:55,207 INFO org.apache.kafka.common.utils.AppInfoParser [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] App info kafka.consumer for consumer-group_id-5 unregistered
+2022-05-27 20:48:55,207 INFO org.springframework.core.log.LogAccessor [org.springframework.kafka.KafkaListenerEndpointContainer#4-0-C-1] group_id: Consumer stopped
+2022-05-27 20:48:55,604 INFO com.mongodb.diagnostics.logging.SLF4JLogger [RMI TCP Connection(11)-127.0.0.1] Closed connection [connectionId{localValue:3, serverValue:16}] to localhost:27017 because the pool has been closed.
+2022-05-27 20:48:55,646 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] Shutting down DiscoveryClient ...
+2022-05-27 20:48:58,685 WARN com.netflix.discovery.TimedSupervisorTask [DiscoveryClient-0] task supervisor shutting down, can't accept the task
+2022-05-27 20:48:58,699 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] Unregistering ...
+2022-05-27 20:48:58,803 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] DiscoveryClient_ESTOCKMARKET-QUERY/host.docker.internal:estockmarket-query:6093 - deregister  status: 200
+2022-05-27 20:48:58,862 INFO com.netflix.discovery.DiscoveryClient [RMI TCP Connection(11)-127.0.0.1] Completed shut down of DiscoveryClient

@@ -20,7 +20,6 @@ import com.estockmarket.query.domain.service.CompanyService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
-@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
 @RequestMapping("/api/${api.version}/query/market/company")
 @Api(value = "company", description = "Operations fetch the company details")

@@ -20,6 +20,7 @@ import org.springframework.data.mongodb.core.aggregation.GroupOperation;
 import org.springframework.data.mongodb.core.aggregation.MatchOperation;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.data.mongodb.core.query.Update;
 import org.springframework.stereotype.Service;
 
 import com.estockmarket.query.application.dto.StockAggregateDTO;
@@ -100,9 +101,13 @@ public class StockService {
 	}
 
 	public void updateStock(Stocks stocks) {
-		LOGGER.info("update stocks {}", stocks);
+		LOGGER.info("update stocks {} {}", stocks.getCompanyCode(), stocks.getPrice());
 		if (stockRepo.findById(stocks.getId()).isPresent()) {
-			stockRepo.save(stocks);
+			Update update = new Update();
+			update.set("price", stocks.getPrice());
+			Query query = new Query();
+			query.addCriteria(Criteria.where("id").is(stocks.getId()));
+			mongoTemplate.updateFirst(query, update, Stocks.class);
 		}
 	}
 
