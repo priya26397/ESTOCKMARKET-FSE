@@ -6,10 +6,12 @@ import org.modelmapper.ModelMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
 import com.estockmarket.query.application.dto.UserDTO;
 import com.estockmarket.query.domain.exception.DataInvalidException;
+import com.estockmarket.query.domain.exception.InvalidCredentialsException;
 import com.estockmarket.query.domain.model.User;
 import com.estockmarket.query.domain.util.JwtRequest;
 import com.estockmarket.query.infrastructure.repository.UserRepository;
@@ -31,6 +33,10 @@ public class UserService {
 			throw new DataInvalidException();
 		}
 		Optional<User> user = userRepo.findByEmail(credentials.getUsername());
+		BCryptPasswordEncoder encoder = new BCryptPasswordEncoder();  
+		if(user.isPresent() && !encoder.matches(credentials.getPassword(), user.get().getPassword())) {
+			throw new InvalidCredentialsException();
+		}
 		return (UserDTO) modelMapper.map(user.get(), UserDTO.class);
 
 	}

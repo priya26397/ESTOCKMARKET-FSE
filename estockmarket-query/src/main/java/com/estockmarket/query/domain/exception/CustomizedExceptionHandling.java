@@ -47,5 +47,16 @@ public class CustomizedExceptionHandling extends ResponseEntityExceptionHandler 
 		ResponseEntity<Object> entity = new ResponseEntity<>(response, HttpStatus.BAD_REQUEST);
 		return entity;
 	}
+	
+	
+	@ExceptionHandler(InvalidCredentialsException.class)
+	public ResponseEntity<Object> handleExceptions(InvalidCredentialsException exception, WebRequest webRequest) {
+		ExceptionResponse response = new ExceptionResponse();
+		response.setDateTime(LocalDateTime.now());
+		response.setMessage("Invalid Credentials");
+		ResponseEntity<Object> entity = new ResponseEntity<>(response, HttpStatus.NOT_FOUND);
+		return entity;
+	}
+
 
 }
