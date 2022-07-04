@@ -55,9 +55,9 @@ public class SectorService {
 	}
 
 	public ResponseEntity<Boolean> removeSector(Integer id) throws JsonProcessingException {
-		Optional<Sector> sector = sectorRepository.findById(id);
+		Optional<Sector> sector = sectorRepository.findById(Long.valueOf(id));
 		if (sector.isPresent()) {
-			sectorRepository.deleteById(id);
+			sectorRepository.deleteById(Long.valueOf(id));
 			kafkaSectorEventSourcing.removeSectorEvent(sector.get());
 			LOGGER.info("Sector removed successfully");
 			return new ResponseEntity<>(true, HttpStatus.OK);

@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import com.estockmarket.command.domain.entity.Sector;
 
 @Repository
-public interface SectorRepository extends JpaRepository<Sector, Integer>{
+public interface SectorRepository extends JpaRepository<Sector, Long>{
 
 	Optional<Sector> findBySectorName(String sectorName);
 
