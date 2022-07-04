@@ -18,7 +18,6 @@ import com.estockmarket.query.domain.service.SectorService;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
-@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
 @RequestMapping("/api/${api.version}/query/market/sector")
 @Api(value = "sectors", description = "Operations pertaining to fetch sector for the company")

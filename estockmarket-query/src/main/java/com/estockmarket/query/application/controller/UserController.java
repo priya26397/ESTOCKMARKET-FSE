@@ -49,7 +49,7 @@ public class UserController {
 	private JwtTokenUtil jwtTokenUtil;
 
 	@ApiOperation(value = "Authenticate the user", response = JwtResponse.class)
-	@RequestMapping(value = "/authenticate", method = RequestMethod.GET, produces = "application/json")
+	@RequestMapping(value = "/authenticate", method = RequestMethod.POST, produces = "application/json")
 	public ResponseEntity<JwtResponse> createAuthenticationToken(@RequestBody JwtRequest credentials) {
 		LOGGER.info("authenticate user {}", credentials);
 		UserDTO dto = userService.authenticate(credentials);

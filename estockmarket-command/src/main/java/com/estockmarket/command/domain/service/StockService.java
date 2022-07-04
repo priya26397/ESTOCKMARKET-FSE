@@ -59,15 +59,14 @@ public class StockService {
 	}
 
 	public StockDto updateStock(StockDto stockDto) throws JsonProcessingException {
-		Optional<Stocks> stockDtoFetch = stockRepository.findById(stockDto.getId());
+		Stocks stockDtoFetch = stockRepository.findById(stockDto.getId()).get();
 		Stocks stockResult = new Stocks();
-		if (stockDtoFetch.isPresent()) {
-			stockDtoFetch.get().setCompanyCode(stockDto.getCompanyCode());
-			stockDtoFetch.get().setPrice(stockDto.getPrice());
-			stockResult = stockRepository.save(stockDtoFetch.get());
-			LOGGER.info("Stocks updated successfully {}",stockResult);
-			kafkaStocksEventSourcing.updateStocksEvent(stockResult);
-		}
+		stockDtoFetch.setPrice(stockDto.getPrice());
+		stockDtoFetch.setUpdatedOn(stockDto.getUpdatedOn());
+		stockResult = stockRepository.save(stockDtoFetch);
+		LOGGER.info("Stocks updated successfully {}", stockResult);
+		kafkaStocksEventSourcing.updateStocksEvent(stockResult);
+
 		return (StockDto) modelMapper.map(stockResult, StockDto.class);
 
 	}

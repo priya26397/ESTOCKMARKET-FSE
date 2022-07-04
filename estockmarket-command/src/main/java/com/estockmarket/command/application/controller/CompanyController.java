@@ -18,7 +18,6 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
-@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
 @RequestMapping("/api/${api.version}/command/market/company")
 @Api(value = "company", description = "Operations pertaining to register and remove the company")

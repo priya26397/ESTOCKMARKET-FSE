@@ -19,7 +19,7 @@ import com.fasterxml.jackson.core.JsonProcessingException;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 
-@CrossOrigin(origins = "*", allowedHeaders = "*")
+
 @RestController
 @RequestMapping("/api/${api.version}/command/market/stock")
 @Api(value = "stock", description = "Operations pertaining to add,update and delete stock price for the company")
